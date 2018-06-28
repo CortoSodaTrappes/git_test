@@ -6,6 +6,9 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>TEST</title>
     <style>
+        body{
+            background-color:yellow;
+        }
     h1{
         position:fixed;
         font-size:2em;
