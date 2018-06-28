@@ -7,6 +7,6 @@
     <title>TEST</title>
 </head>
 <body>
-    <h1>Test</h1>
+    <h1>Ceci est un test</h1>
 </body>
 </html>
